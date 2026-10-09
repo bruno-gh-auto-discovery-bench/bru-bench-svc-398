@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "billing-e2e-8",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

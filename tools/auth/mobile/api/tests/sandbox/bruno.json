@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "billing-sandbox-8",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

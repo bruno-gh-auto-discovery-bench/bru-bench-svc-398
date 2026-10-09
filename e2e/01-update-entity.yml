@@ -1,0 +1,6 @@
+info:
+  name: update 1
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/billing-e2e-7/1
